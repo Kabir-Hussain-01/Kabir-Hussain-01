@@ -28,7 +28,7 @@
 - Conducted exploratory data analysis (EDA) to identify trends and patterns
 - Handled missing values and transformed dataset for analysis
 - Generated insights using Python and Jupyter Notebook
-- [View Project](https://github.com/your-link)
+- [View Project](https://github.com/Kabir-Hussain-01/Hot-Wheels-Sales-Analysis-2025)
 
 ---
 
